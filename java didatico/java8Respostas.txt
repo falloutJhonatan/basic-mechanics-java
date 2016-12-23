@@ -1,0 +1,34 @@
+####    exercicios do livro java 8 didatico pg 26    ####
+
+1_)
+    A)R = Sun
+    B)R = Static
+    C)R = main
+    D)R = public
+
+2_)
+    R = D)
+
+3_)
+    R = B)
+
+4_)
+    R = Não é necessario conhecer a máquina que execulta o codigo.
+
+5_)
+    R = A)
+  
+6_)
+    R = C)
+
+7_)
+    R = Kotlin
+
+8_)
+    R = in git
+
+9_)
+    R = gerar um .class para ser execultado o codigo
+
+10_)
+    R = D)
